@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
